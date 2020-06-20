@@ -1,2 +1,5 @@
-# The-C-programming-language-studying
- study K&amp;R C from zero
+#include <stdio.h>
+main()
+{
+printf("hello,world"\n)
+}
